@@ -54,7 +54,6 @@ p{
 a.button{
   display: inline-block;
   padding: 0.7em 1.2em;
-  /*margin: 0em 0.3em 0.3em 0;*/
   border-radius: 0.5em;
   box-sizing: border-box;
   text-decoration: none;
@@ -73,7 +72,6 @@ a.button:hover{
 a.view-button{
   display: inline-block;
   padding: 0.8em 3em;
-  /*margin: 0em 0.3em 0.3em 0;*/
   border-radius: 0.5em;
   box-sizing: border-box;
   text-decoration: none;
@@ -111,17 +109,9 @@ a.view-button:hover{
 .visit-container{
   width: 100%;
   height: 36rem;
-  /*padding: 2rem;*/
   box-sizing: border-box;
   overflow: hidden;
 }
-
-/*.explore-box,
-.explore-box2{
-    float: left;
-    width: 50%;
-    height: 100%;
-}*/
 
 .title-explore{
   margin-left: 2rem;
@@ -366,7 +356,7 @@ button:hover {
   margin-top: -3.5rem;
 }
 
-/*FOOTER AND STUFF*/
+/*FOOTER*/
 
   .footer-container{
     background-color: #E7FFE3;
